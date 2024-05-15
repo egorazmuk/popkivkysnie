@@ -26,7 +26,7 @@ abstract class PassengerCar
             serviceIncome += service.Value;
         }
         return serviceIncome;
-    }
+    } 
 }
 
 class CompartmentCar : PassengerCar
